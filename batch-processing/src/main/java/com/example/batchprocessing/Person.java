@@ -16,7 +16,7 @@ public class Person {
         this.firstName = firstName;
     }
 
-    public String getFirstName(String firstName) {
+    public String getFirstName() {
         return firstName;
     }
 
@@ -24,7 +24,7 @@ public class Person {
         this.lastName = lastName;
     }
 
-    public String getLastName(String lastName) {
+    public String getLastName() {
         return lastName;
     }
 
